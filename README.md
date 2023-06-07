@@ -20,7 +20,7 @@ In order to utilise the library in a project, update your `settings.gradle` (or 
         maven { url 'https://jitpack.io' }
     }
 ```
-Then, in order to utilise the core AndroidUi module in a project, add the following dependency to your `build.gradle` file:
+Then, in order to utilise the core Compose module in a project, add the following dependency to your `build.gradle` file:
 ```groovy
     implementation 'com.github.jr-mitchell.Android-Fusion-Compose:core:{versionCode}'
 ```
