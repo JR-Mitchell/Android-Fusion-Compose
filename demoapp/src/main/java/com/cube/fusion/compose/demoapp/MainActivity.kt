@@ -8,7 +8,7 @@ import androidx.compose.material.Text
 /**
  * Main activity for the demo of Fusion AndroidUi
  *
- * Created by JR Mitchell on 03/March/2022.
+ * Created by JR Mitchell on 07/June/2023.
  * Copyright ® 3SidedCube. All rights reserved.
  */
 class MainActivity : ComponentActivity() {
